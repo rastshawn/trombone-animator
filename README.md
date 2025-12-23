@@ -1,6 +1,6 @@
 # Trombone Animator
 
-Used to generate the youtube video found here: https://youtu.be/TLrYRIiRz5k
+Used to generate the youtube video found here: https://youtu.be/eBwQ0RnvL9k
 
 Takes in a MIDI file and orders images according to slide positions.
 
